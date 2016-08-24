@@ -10,6 +10,6 @@ IT Services firm in Bengalore, India. i
 
 I did my engineering in Electronics from Nagpur University, Nagpur, Maharastra.
 
-You can reach me at : [prashantchikhalkar@gmail.com]
+You can reach me at : prashantchikhalkar@gmail.com
 
 Date : 24th August 2016
