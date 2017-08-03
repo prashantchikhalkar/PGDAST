@@ -5,7 +5,7 @@ This repo contains my efforts on studying this course.
 
 *About me* : 
 
-My name is *Prashant Cchikhalkar*, I am Software Engineer working for Wind River ( An Intel Company) in Bengaluru, India.
+My name is *Prashant Chikhalkar*, I am Software Engineer working for Wind River ( An Intel Company) in Bengaluru, India.
 
 I did my engineering in Electronics from Nagpur University, Nagpur, Maharastra.
 
