@@ -9,6 +9,8 @@ My name is *Prashant Chikhalkar*, I am Software Engineer working for Wind River 
 
 I did my engineering in Electronics from Nagpur University, Nagpur, Maharastra.
 
+https://www.linkedin.com/in/prashant-chikhalkar-90893338
+
 You can reach me at : prashantchikhalkar@gmail.com
 
 If you have any queries regarding this course you can drop me email, I will try to help as much as I can.
