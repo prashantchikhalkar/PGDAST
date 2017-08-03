@@ -5,8 +5,12 @@ This repo contains my efforts on studying this course.
 
 *About me* : 
 
-My name is **PRASHANT CHIKHALKAR**, I am Software Engineer working for Wind River ( An Intel Company) in Bengalore, India.
+My name is **PRASHANT CHIKHALKAR**, I am Software Engineer working for Wind River ( An Intel Company) in Bengaluru, India.
 
 I did my engineering in Electronics from Nagpur University, Nagpur, Maharastra.
 
 You can reach me at : prashantchikhalkar@gmail.com
+
+If you have any queries regarding this course you can drop me email, I will try to help as much as I can.
+
+*If you have any updates for PGDAST which you want to share with others please let me know I will post them here.*
