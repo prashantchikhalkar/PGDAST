@@ -1,5 +1,5 @@
 I am persuing **PGDAST** (*Post Graduate Diploma in Applied Statistics*) from IGNOU, 
-Regional Center Bengalore.
+Regional Center Bengaluru.
 
 This repo contains my efforts on studying this course.
 
