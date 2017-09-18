@@ -13,6 +13,8 @@ https://www.linkedin.com/in/prashant-chikhalkar-90893338
 
 You can reach me at : prashantchikhalkar@gmail.com
 
-If you have any queries regarding this course you can drop me email, I will try to help as much as I can.
-
 *If you have any updates for PGDAST which you want to share with others please let me know I will post them here.*
+
+
+***** NOTE *****
+This repo is not updated actively because of other high priority tasks, will get back to this once I have enough time to spend on PGDAST. 
