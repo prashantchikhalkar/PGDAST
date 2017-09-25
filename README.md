@@ -15,6 +15,7 @@ You can reach me at : prashantchikhalkar@gmail.com
 
 *If you have any updates for PGDAST which you want to share with others please let me know I will post them here.*
 
+--> **Google Group URL** : https://groups.google.com/d/forum/pgdast
 
 ***** NOTE *****
 This repo is not updated actively because of other high priority tasks, will get back to this once I have enough time to spend on PGDAST. 
